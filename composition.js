@@ -1,8 +1,3 @@
-/**
- * Created by chrisblyth on 12.04.16.
- */
-
-
 var peopleFactory = function(name,age,state) {
 
     var temp = {};
