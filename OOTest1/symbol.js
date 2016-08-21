@@ -14,7 +14,7 @@ var Person = (function() {
 
     */
 
-'use strict'
+'use strict';
 /*
 var Person = (function() {
     var PRVname;
